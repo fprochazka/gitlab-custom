@@ -1,0 +1,11 @@
+.boards-list .board:not(.is-collapsed) {
+    width: 300px;
+}
+.boards-list .board {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.boards-list .board .board-card {
+    padding: 8px 16px;
+}
